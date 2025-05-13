@@ -1,0 +1,25 @@
+#python virtual environment
+venv
+
+#python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+#vscode settings
+.vscode/
+
+# environment variables or secrets
+.env
+
+# operating system files
+.DS_Store
+
+#log and temporary files
+*.log
+*.tmp
+
+#compiled or packed files
+*.egg-info/
+dist/
+build/
